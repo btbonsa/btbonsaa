@@ -37,14 +37,11 @@
 ```yaml
 name: Bonsa Tujo Derara
 location: Ethiopia 🇪🇹
-education: Computer Science Student
+Education: Computer Science Student
 role: Full-Stack & Mobile Developer
 
 currently_building:
   - Freelance/Job Platform (ETN)
-  - Ethiopian Cinema Streaming App
-  - Pharmacy Management System (Java)
-  - OpenGL Shooting Game (C++ + GLFW)
 
 passions:
   - Clean Architecture
@@ -69,9 +66,6 @@ available_for: Freelance & Collaboration
 | Project | Stack | Status |
 |--------|-------|--------|
 | 🌐 **ETN — Freelance & Job Platform** | React · Node.js · MySQL · TypeScript | 🟢 Active |
-| 📱 **Ethiopian Cinema Streaming App** | React Native · Node.js | 🟡 In Progress |
-| 💊 **Pharmacy Management System** | Java · GUI | 🟡 In Progress |
-| 🎮 **OpenGL Shooting Game** | C++ · GLFW · OpenGL | 🟠 Early Stage |
 | ☁️ **Cloud Storage Integration** | Cloudinary · REST APIs | 🟢 Active |
 
 </div>
@@ -206,8 +200,6 @@ available_for: Freelance & Collaboration
 </a>
 
 <br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
